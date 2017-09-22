@@ -26,3 +26,10 @@ body{
     font-size: 21px;
     color: gray;
 }
+.footer{
+    color: gray;
+    font-size: 21px;
+    text-align: right;
+    font-family: verdana;
+
+}
