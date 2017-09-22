@@ -1,0 +1,28 @@
+h1 {
+    font-family: verdana;
+    font-size: 50px;
+    color: white;
+    font-weight: normal;
+
+}
+
+body{
+    background-color: black;
+    text-align: center;
+}
+
+.zeus{
+    color: Aquamarine;
+    font-size: 16px;
+}
+.wizkid{
+    font-family:verdana;
+    font-weight: 300;
+    font-size:42px;
+    color:white;
+}
+.jones{
+    font-family: verdana;
+    font-size: 21px;
+    color: gray;
+}
